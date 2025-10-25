@@ -1,0 +1,25 @@
+Enter Vehicle Brand:
+Hero
+Enter Vehicle Speed:
+80
+
+---- Vehicle Information ----
+Vehicle Brand: Hero
+Speed: 80 km/h
+
+Enter Car Brand:
+BMW
+Enter Car Speed:
+180
+Enter Fuel Type:
+Petrol
+
+---- Car Information ----
+Car Details:
+Vehicle Brand: BMW
+Speed: 180 km/h
+Fuel Type: Petrol
+
+Enter new speed to update Car:
+200
+Updated Car Speed: 200 km/h
